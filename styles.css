@@ -1,0 +1,33 @@
+body {
+    background-color:rgb(94, 88, 88) ;
+    margin: 25%;
+}
+ #title {
+     color:white;
+    text-align: center;
+
+    font-size: 7vh;
+}
+
+
+#image {
+    display:block;
+    max-width: 100%;
+   height:auto;
+}
+ #tribute-info {
+    background-color: rgba(51, 59, 55, 0.25);
+    box-shadow: 20px 20px 20px #303130;
+    font-family: Georgia;
+    padding: 20px 15px;
+    
+    margin-top:20px;
+}
+
+
+h1.title-APJ {
+    font-size: 29px;
+    color: white;
+    text-align: center;
+    text-shadow: 5px 5px 10px black;
+}
